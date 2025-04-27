@@ -1,0 +1,100 @@
+,Image Name,internVL8B,gpt,ground truth
+0,Subject15/Activity1/Trial1/Camera1,falling backwards,falling forward,falling forward
+1,Subject15/Activity1/Trial2/Camera1,flying forward,falling forward,falling forward
+2,Subject15/Activity1/Trial3/Camera1,walking,falling forward,falling forward
+3,Subject15/Activity2/Trial1/Camera1,falling sideways,falling on knees,falling on knees
+4,Subject15/Activity2/Trial2/Camera1,flying,falling on knees,falling on knees
+5,Subject15/Activity2/Trial3/Camera1,falling backwards,falling on knees,falling on knees
+6,Subject15/Activity3/Trial1/Camera1,falling backwards,falling backwards,falling backwards
+7,Subject15/Activity3/Trial2/Camera1,falling sideways,falling backwards,falling backwards
+8,Subject15/Activity3/Trial3/Camera1,The images depict a person who began standing and then transitions to lying on their back on the floor. This corresponds to the activity of falling backwards.,falling backwards,falling backwards
+9,Subject15/Activity4/Trial1/Camera1,falling sideways,falling sideways,falling sideways
+10,Subject15/Activity4/Trial2/Camera1,falling forward,falling sideways,falling sideways
+11,Subject15/Activity4/Trial3/Camera1,Falling backwards,falling sideways,falling sideways
+12,Subject15/Activity5/Trial1/Camera1,falling sideways,falling from knees,falling from knees
+13,Subject15/Activity5/Trial2/Camera1,falling backwards,falling from knees,falling from knees
+14,Subject15/Activity5/Trial3/Camera1,falling backwards,falling from knees,falling from knees
+15,Subject15/Activity6/Trial1/Camera1,falling sideways,walking,walking
+16,Subject15/Activity6/Trial2/Camera1,walking,walking,walking
+17,Subject15/Activity6/Trial3/Camera1,The activity that best describes the images is: **walking**.,walking,walking
+18,Subject15/Activity7/Trial1/Camera1,standing,standing,standing
+19,Subject15/Activity7/Trial2/Camera1,standing,standing,standing
+20,Subject15/Activity7/Trial3/Camera1,standing,standing,standing
+21,Subject15/Activity8/Trial1/Camera1,sitting,sitting,sitting
+22,Subject15/Activity8/Trial2/Camera1,sitting,sitting,sitting
+23,Subject15/Activity8/Trial3/Camera1,sitting,sitting,sitting
+24,Subject15/Activity9/Trial1/Camera1,falling sideways,picking up,picking up
+25,Subject15/Activity9/Trial2/Camera1,standing,picking up,picking up
+26,Subject15/Activity9/Trial3/Camera1,falling on knees,picking up,picking up
+27,Subject15/Activity10/Trial1/Camera1,falling sideways,jumping,jumping
+28,Subject15/Activity10/Trial2/Camera1,standing,jumping,jumping
+29,Subject15/Activity10/Trial3/Camera1,jumping,jumping,jumping
+30,Subject15/Activity11/Trial1/Camera1,falling sideways,lying,lying
+31,Subject15/Activity11/Trial2/Camera1,Falling sideways,lying,lying
+32,Subject15/Activity11/Trial3/Camera1,Falling sideways,lying,lying
+33,Subject16/Activity1/Trial1/Camera1,falling sideways,falling forward,falling forward
+34,Subject16/Activity1/Trial2/Camera1,lying,falling forward,falling forward
+35,Subject16/Activity1/Trial3/Camera1,Falling forwards,falling forward,falling forward
+36,Subject16/Activity2/Trial1/Camera1,falling backwards,falling on knees,falling on knees
+37,Subject16/Activity2/Trial2/Camera1,Falling backwards,falling on knees,falling on knees
+38,Subject16/Activity2/Trial3/Camera1,falling forwards,falling on knees,falling on knees
+39,Subject16/Activity3/Trial1/Camera1,falling backwards,falling backwards,falling backwards
+40,Subject16/Activity3/Trial2/Camera1,falling forwards,falling backwards,falling backwards
+41,Subject16/Activity3/Trial3/Camera1,falling backwards,falling backwards,falling backwards
+42,Subject16/Activity4/Trial1/Camera1,falling forward,falling sideways,falling sideways
+43,Subject16/Activity4/Trial2/Camera1,falling backwards,falling sideways,falling sideways
+44,Subject16/Activity4/Trial3/Camera1,falling backwards,falling sideways,falling sideways
+45,Subject16/Activity5/Trial1/Camera1,falling backward,falling from knees,falling from knees
+46,Subject16/Activity5/Trial2/Camera1,falling sideways,falling from knees,falling from knees
+47,Subject16/Activity5/Trial3/Camera1,lying,falling from knees,falling from knees
+48,Subject16/Activity6/Trial1/Camera1,falling sideways,walking,walking
+49,Subject16/Activity6/Trial2/Camera1,standing,walking,walking
+50,Subject16/Activity6/Trial3/Camera1,falling forward,walking,walking
+51,Subject16/Activity7/Trial1/Camera1,standing,standing,standing
+52,Subject16/Activity7/Trial2/Camera1,standing,standing,standing
+53,Subject16/Activity7/Trial3/Camera1,standing,standing,standing
+54,Subject16/Activity8/Trial1/Camera1,sitting,sitting,sitting
+55,Subject16/Activity8/Trial2/Camera1,falling sideways,sitting,sitting
+56,Subject16/Activity8/Trial3/Camera1,sitting,sitting,sitting
+57,Subject16/Activity9/Trial1/Camera1,falling on knees,picking up,picking up
+58,Subject16/Activity9/Trial2/Camera1,falling on knees,picking up,picking up
+59,Subject16/Activity9/Trial3/Camera1,falling backwards,picking up,picking up
+60,Subject16/Activity10/Trial1/Camera1,standing,jumping,jumping
+61,Subject16/Activity10/Trial2/Camera1,standing,jumping,jumping
+62,Subject16/Activity10/Trial3/Camera1,standing,jumping,jumping
+63,Subject16/Activity11/Trial1/Camera1,lying,lying,lying
+64,Subject16/Activity11/Trial2/Camera1,lying,lying,lying
+65,Subject16/Activity11/Trial3/Camera1,falling backwards,lying,lying
+66,Subject17/Activity1/Trial1/Camera1,falling sideways,falling forward,falling forward
+67,Subject17/Activity1/Trial2/Camera1,falling forwards,falling forward,falling forward
+68,Subject17/Activity1/Trial3/Camera1,flying forward,falling forward,falling forward
+69,Subject17/Activity2/Trial1/Camera1,falling sideways,falling on knees,falling on knees
+70,Subject17/Activity2/Trial2/Camera1,falling forward,falling on knees,falling on knees
+71,Subject17/Activity2/Trial3/Camera1,falling forward,falling on knees,falling on knees
+72,Subject17/Activity3/Trial1/Camera1,falling sideways,falling backwards,falling backwards
+73,Subject17/Activity3/Trial2/Camera1,falling from knees,falling backwards,falling backwards
+74,Subject17/Activity3/Trial3/Camera1,falling sideways,falling backwards,falling backwards
+75,Subject17/Activity4/Trial1/Camera1,flying,falling sideways,falling sideways
+76,Subject17/Activity4/Trial2/Camera1,falling backwards,falling sideways,falling sideways
+77,Subject17/Activity4/Trial3/Camera1,falling forward,falling sideways,falling sideways
+78,Subject17/Activity5/Trial1/Camera1,falling sideways,falling from knees,falling from knees
+79,Subject17/Activity5/Trial2/Camera1,falling sideways,falling from knees,falling from knees
+80,Subject17/Activity5/Trial3/Camera1,"The best option that describes the images is ""falling on knees.""",falling from knees,falling from knees
+81,Subject17/Activity6/Trial1/Camera1,jumping,walking,walking
+82,Subject17/Activity6/Trial2/Camera1,falling side,walking,walking
+83,Subject17/Activity6/Trial3/Camera1,walking,walking,walking
+84,Subject17/Activity7/Trial1/Camera1,standing,standing,standing
+85,Subject17/Activity7/Trial2/Camera1,standing,standing,standing
+86,Subject17/Activity7/Trial3/Camera1,standing,standing,standing
+87,Subject17/Activity8/Trial1/Camera1,sitting,sitting,sitting
+88,Subject17/Activity8/Trial2/Camera1,sitting,sitting,sitting
+89,Subject17/Activity8/Trial3/Camera1,sitting,sitting,sitting
+90,Subject17/Activity9/Trial1/Camera1,falling forward,picking up,picking up
+91,Subject17/Activity9/Trial2/Camera1,falling sideways,picking up,picking up
+92,Subject17/Activity9/Trial3/Camera1,falling forward,picking up,picking up
+93,Subject17/Activity10/Trial1/Camera1,standing,jumping,jumping
+94,Subject17/Activity10/Trial2/Camera1,falling sideways,jumping,jumping
+95,Subject17/Activity10/Trial3/Camera1,falling sideways,jumping,jumping
+96,Subject17/Activity11/Trial1/Camera1,lying,lying,lying
+97,Subject17/Activity11/Trial2/Camera1,lying,lying,lying
+98,Subject17/Activity11/Trial3/Camera1,lying,lying,lying
