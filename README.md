@@ -46,9 +46,12 @@ Additionally, we used two other datasets, NTU and Upfall, specifically to evalua
 These datasets helped assess how well the model can understand and interpret human actions from visual input.
 
 
-For all_caps.json it contains the generations of the multiple VLMs on the toyota datset and it is organized as follows ()
+For all_caps.json it contains the generations of the multiple VLMs on the toyota datset and it is organized as follows 
 
 
+```bash
+allcaps[image]=[ground_truth(activity name),llama,intern2kf,internVL_Vcaps,deepseek,captions(correct_caption)]
+```
 
 
 
