@@ -1,0 +1,85 @@
+/* Additional CSS for circular layout */
+.value-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  background-color: #ffffff; /* Change background color to white for better visibility */
+  color: #000000; /* Change text color to black */
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+.slider-container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.slider {
+  width: 100%;
+}
+
+#selectedIp {
+  display: block;
+  margin-top: 10px;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ffffff; /* Change background color to white */
+  min-width: 160px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+  border-radius: 8px; /* Add border-radius for a nicer look */
+}
+
+.dropdown-content a {
+  color: #000000; /* Change text color to black */
+  padding: 10px 15px;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Change background color on hover */
+}
+.value {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.value-title {
+    font-size: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center; /* Center vertically */
+}
+
+.value-link {
+    font-size: 8px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.show {
+    display: block;
+}
+/* Adjust font size and other styles as needed */
+.ui-title {
+    font-size: 24px;
+}

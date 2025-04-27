@@ -1,0 +1,14 @@
+/* this file is left blank on purpose, if developer can't find classes he needs in framework, he can customize his
+app adding his own styles here
+ */
+ html,
+body {
+    width: 50%;
+    height: 50%;
+    margin: 10;
+    color: #ab92ab;
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+}
+ 

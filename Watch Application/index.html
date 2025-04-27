@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>List</title>
+    <link rel="stylesheet" href="lib/tau/wearable/theme/default/tau.min.css">
+    <link rel="stylesheet" media="all and (-tizen-geometric-shape: circle)" href="lib/tau/wearable/theme/default/tau.circle.min.css">
+    <!-- load theme file for your application -->
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+		/* Style for custom dropdown */
+		.dropdown {
+		  position: relative;
+		  display: inline-block;
+		}
+		
+		.dropdown-content {
+		  display: none;
+		  position: absolute;
+		  background-color: #f1f1f1;
+		  min-width: 160px;
+		  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		  z-index: 1;
+		}
+		
+		.dropdown-content a {
+		  color: black;
+		  padding: 12px 16px;
+		  text-decoration: none;
+		  display: block;
+		}
+		
+		.dropdown:hover .dropdown-content {
+		  display: block;
+		}
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        .ui-page {
+            background-color: #f4f4f4;
+        }
+
+        .ui-header {
+            background-color: #3F51B5;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .ui-title {
+            margin: 0;
+            font-size: 8px;
+        }
+
+        .ui-content {
+            padding: 10px;
+        }
+
+        .item {
+            margin-bottom: 10px;
+        }
+
+        .item span {
+            display: inline-block;
+            width: 100px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="ui-page ui-page-active" id="main">
+        <header class="ui-header">
+            <h2 class="ui-title">TAU List</h2>
+        </header>
+        <div class="ui-content">
+            <label for="ipAddress">Enter IP Address:</label>
+            <input type="text" id="ipAddress" placeholder="e.g., 192.168.24.53"  inputmode="numeric">
+            <button id="connectBtn">Connect</button>
+            <button id="defaultIpBtn">Use Default IP</button> <!-- New button -->
+            
+            
+			<label for="ipSelect">Select an IP Address:</label>
+			<select id="ipSelect">
+			    <!-- Options will be dynamically populated by JavaScript -->
+			</select>
+			<button id="SelectBtn">Select</button>
+			
+            
+            <div class="item">
+                <span>Heart Rate:</span> <span id='heart'></span>
+            </div>
+            <div class="item">
+                <span>Sleeping Status:</span> <span id='sleep'>awake</span>
+            </div>
+            <div class="item">
+                <span>Ax:</span> <span id='axh'></span>
+            </div>
+            <div class="item">
+                <span>Ay:</span> <span id='ayh'></span>
+            </div>
+            <div class="item">
+                <span>Az:</span> <span id='azh'></span>
+            </div>
+        </div>
+        
+        <button id="EmptyBtn">Empty IP List</button>
+    </div>
+    <script src="lib/tau/wearable/js/tau.min.js"></script>
+    <script src="js/circle-helper.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/lowBatteryCheck.js"></script>
+</body>
+</html>
