@@ -1,8 +1,9 @@
-# Python Script Launcher
+# Remoni Components
 
+
+
+## Edge device
 This project provides a simple launcher that opens and runs two Python scripts (`server.py` and `Cloud_RealTime.py`) in separate terminal windows.
-
-## Project Structure
 
 
 ## How It Works
@@ -30,6 +31,8 @@ python launcher.py
 ```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Smartwatch application
+
 To create a Tizen OS project targeting Galaxy Watch devices, start by opening the Tizen Studio and creating a new project.
 Choose Tizen 7.0 (v7) as the platform version to ensure compatibility with the latest Galaxy Watch models.
  During project setup, select the Wearable profile and choose a template like Basic Watch App or Galaxy Watch App depending on your needs.
@@ -37,6 +40,8 @@ This will scaffold the project with the correct structure and permissions optimi
 After setup, you can build, run, and deploy the app directly to an emulator or a connected Galaxy Watch device.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## VlMs in activity recognition
 
 
 In our work with vision-language models, we utilized three datasets.
