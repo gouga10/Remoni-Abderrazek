@@ -41,7 +41,7 @@ After setup, you can build, run, and deploy the app directly to an emulator or a
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## VlMs in activity recognition
+## VLMs in activity recognition
 
 
 In our work with vision-language models, we utilized three datasets.
